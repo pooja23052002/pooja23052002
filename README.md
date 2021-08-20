@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pooja23052002
-- 👀 I’m interested in ...html,css,bootstrap,c programming,data structures,DBMS,robotics
+- 👀 I’m interested in ...html,css,javascript,c programming,R,R Studio 
 - 📫 How to reach me ... spooja23052002@gmail.com
 
 <!---
